@@ -1,4 +1,4 @@
-# LogUtilExample
+# LogUtilExample [![](https://jitpack.io/v/aditmodhvadia/LogUtilExample.svg)](https://jitpack.io/#aditmodhvadia/LogUtilExample)
 An android library for logging debug data
 
 # Tag
